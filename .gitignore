@@ -1,0 +1,9 @@
+
+# Created by https://www.gitignore.io/api/agda
+# Edit at https://www.gitignore.io/?templates=agda
+
+### Agda ###
+*.agdai
+MAlonzo/**
+
+# End of https://www.gitignore.io/api/agda
