@@ -1,5 +1,4 @@
 {-# OPTIONS --cubical #-}
-{-# OPTIONS --allow-unsolved-metas #-}
 
 module GAP.Algebra.Group.Homomorphism.Properties where
 
